@@ -27,7 +27,7 @@ For example:
 - [Digital Electronics and Firmware Engineer](https://skope.swiss/careers/digital-electronics-and-firmware-engineer/) - Field-Monitoring Technology - Skope Magnetic Resonance Technologies AG, Zürich (Switzerland)
 - [Account Manager](https://skope.swiss/careers/account-manager/) - Sales and Customer Relations - Skope Magnetic Resonance Technologies AG, Zürich (Switzerland)
 - [PhD student](/job_board_files/PhD_position_MUI.pdf) - Multinuclear quantitative MRI in brain tumors - Medical University of Innsbruck, Austria
-
+- [Postdoctoral Researcher] (https://fex.ukw.de/public/download-shares/6AAthp1zixdPO3hTEVEdk4M0d19VlPSP) MR-Physicist for 7T fMRI project, University Hospital Wuerzburg, Germany
 
 ## Job Seekers
 
